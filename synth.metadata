@@ -3,8 +3,8 @@
     {
       "git": {
         "name": ".",
-        "remote": "git@github.com:googleapis/nodejs-gke-hub.git",
-        "sha": "1a349584f6d2012ef40b5f112a18009757c647ee"
+        "remote": "https://github.com/googleapis/nodejs-gke-hub.git",
+        "sha": "fe462ae030a12812b1b066c8edbe107f7ff4c633"
       }
     },
     {
