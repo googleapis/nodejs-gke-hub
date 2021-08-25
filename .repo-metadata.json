@@ -3,7 +3,7 @@
   "api_id": "gkehub.googleapis.com",
   "distribution_name": "@google-cloud/gke-hub",
   "release_level": "BETA",
-  "default_version": "v1beta1",
+  "default_version": "v1",
   "language": "nodejs",
   "name_pretty": "GKE Hub",
   "repo": "googleapis/nodejs-gke-hub",
