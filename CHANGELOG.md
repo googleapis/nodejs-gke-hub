@@ -1,5 +1,25 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/googleapis/nodejs-gke-hub/compare/v1.3.0...v2.0.0) (2021-08-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* Move `GkeCluster` under oneof
+* Move `GkeCluster` under oneof
+
+### Features
+
+* Add `OnPremCluster` and `MultiCloudCluster` as `GkeCluster` equivalent field ([dd27a47](https://www.github.com/googleapis/nodejs-gke-hub/commit/dd27a47c90c7fac0dd405ca3a99a295837f44a0e))
+* Add `OnPremCluster` and `MultiCloudCluster` as `GkeCluster` equivalent field ([#91](https://www.github.com/googleapis/nodejs-gke-hub/issues/91)) ([9f037c2](https://www.github.com/googleapis/nodejs-gke-hub/commit/9f037c26db002fbef5f8a41a5c9ba131ddfb6fdd))
+* Add request_id under `DeleteMembershipRequest` and `UpdateMembershipRequest` ([#86](https://www.github.com/googleapis/nodejs-gke-hub/issues/86)) ([dd27a47](https://www.github.com/googleapis/nodejs-gke-hub/commit/dd27a47c90c7fac0dd405ca3a99a295837f44a0e))
+* Move `GkeCluster` under oneof ([9f037c2](https://www.github.com/googleapis/nodejs-gke-hub/commit/9f037c26db002fbef5f8a41a5c9ba131ddfb6fdd))
+
+
+### Bug Fixes
+
+* Move `GkeCluster` under oneof ([dd27a47](https://www.github.com/googleapis/nodejs-gke-hub/commit/dd27a47c90c7fac0dd405ca3a99a295837f44a0e))
+
 ## [1.3.0](https://www.github.com/googleapis/nodejs-gke-hub/compare/v1.2.1...v1.3.0) (2021-08-23)
 
 
