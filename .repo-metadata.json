@@ -11,6 +11,6 @@
   "requires_billing": true,
   "name": "gke-hub",
   "issue_tracker": "https://github.com/googleapis/nodejs-gke-hub/issues",
-  "api_shortname": "gke-hub",
+  "api_shortname": "gkehub",
   "library_type": "GAPIC_AUTO"
 }
